@@ -1,0 +1,145 @@
+[
+  {
+    "id": "underpool-long",
+    "name": "underpool",
+    "price": 4000,
+    "description": "Color: Milk\nMaterial: 2-thread fleece, density 240: 92% cotton, 8% lycra.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/underpool-long-fw.png",
+      "http://10.0.2.2:8080/images/underpool-long-bc.png"
+    ]
+  },
+  {
+    "id": "underpool-tee",
+    "name": "underpool",
+    "price": 3000,
+    "description": "Color: Milk\nMaterial: 2-thread fleece, density 240: 92% cotton, 8% lycra.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/underpool-tee-fw.png",
+      "http://10.0.2.2:8080/images/underpool-tee-bc.png"
+    ]
+  },
+  {
+    "id": "nika-tee",
+    "name": "nika",
+    "price": 3000,
+    "description": "Color: Black\nMaterial: 2-thread fleece, density 240, 92% cotton, 8% lycra.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/nika-tee-fw.png",
+      "http://10.0.2.2:8080/images/nika-tee-bc.png"
+    ]
+  },
+  {
+    "id": "nika-long",
+    "name": "nika",
+    "price": 4000,
+    "description": "Color: Black\nMaterial: 2-thread fleece, density 240, 92% cotton, 8% lycra.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/nika-long-fw.png",
+      "http://10.0.2.2:8080/images/nika-long-bc.png"
+    ]
+  },
+  {
+    "id": "olympicstuff-long",
+    "name": "olympic stuff",
+    "price": 4000,
+    "description": "Color: White\nMaterial: 2-thread fleece, density 240: 92% cotton, 8% lycra.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/olympicstuff-long.png"
+    ]
+  },
+  {
+    "id": "swimmingstuff-tee-b",
+    "name": "swimming stuff",
+    "price": 3000,
+    "description": "Color: Black\nMaterial: 2-thread fleece, density 240: 92% cotton, 8% lycra.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/swimmingstuff-tee-b.png"
+    ]
+  },
+  {
+    "id": "swimmingstuff-shorts-b",
+    "name": "swimming stuff",
+    "price": 4000,
+    "description": "Color: Black\nMaterial: 2-thread fleece, density 240: 92% cotton, 8% lycra.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/swimmingstuff-shorts-b.png"
+    ]
+  },
+  {
+    "id": "swimmingstuff-tee-w",
+    "name": "swimming stuff",
+    "price": 3000,
+    "description": "Color: White\nMaterial: 2-thread fleece, density 240: 92% cotton, 8% lycra.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/swimmingstuff-tee-w.png"
+    ]
+  },
+  {
+    "id": "swimmingstuff-shorts-w",
+    "name": "swimming stuff",
+    "price": 4000,
+    "description": "Color: White\nMaterial: 2-thread fleece, density 240: 92% cotton, 8% lycra.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/swimmingstuff-shorts-w.png"
+    ]
+  },
+  {
+    "id": "olympicstuff-tee",
+    "name": "olympic stuff",
+    "price": 3000,
+    "description": "Color: White\nMaterial: 2-thread fleece, density 240: 92% cotton, 8% lycra.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/olympicstuff-tee.png"
+    ]
+  },
+  {
+    "id": "phelps-hands",
+    "name": "phelps-hands",
+    "price": 4000,
+    "description": "Color: Black\nMaterial: 2-thread fleece, density 240: 92% cotton, 8% lycra.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/phelps-hands-fw.png",
+      "http://10.0.2.2:8080/images/phelps-hands-bc.png"
+    ]
+  },
+  {
+    "id": "swimmingstuff-shorts-milk",
+    "name": "swimming stuff",
+    "price": 4000,
+    "description": "Color: Milk\nMaterial: 2-thread fleece, density 240: 92% cotton, 8% lycra.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/swimmingstuff-shorts-milk.png"
+    ]
+  },
+  {
+    "id": "swimmingstuff-cap-w",
+    "name": "swimming stuff",
+    "price": 950,
+    "description": "Color: White\nMaterial: 100% silicone, density 180 microns.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/swimmingstuff-cap-w.png",
+      "http://10.0.2.2:8080/images/swimmingstuff-cap-w-bc.jpg"
+    ]
+  },
+  {
+    "id": "swimmingstuff-cap-b",
+    "name": "swimming stuff",
+    "price": 950,
+    "description": "Color: Black\nMaterial: 100% silicone, density 180 microns.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/swimmingstuff-cap-b.png",
+      "http://10.0.2.2:8080/images/swimmingstuff-cap-b-bc.jpg"
+    ]
+  },
+  {
+    "id": "swimmingstuff-cap-three",
+    "name": "swimming stuff",
+    "price": 950,
+    "description": "Color: Tricolor\nMaterial: 100% silicone, density 180 microns.",
+    "imageUrls": [
+      "http://10.0.2.2:8080/images/swimmingstuff-cap-three.png",
+      "http://10.0.2.2:8080/images/swimmingstuff-cap-three-bc.jpg"
+    ]
+  }
+]

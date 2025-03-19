@@ -6,7 +6,7 @@ import io.ktor.server.auth.jwt.*
 import io.ktor.server.request.*
 import io.ktor.server.routing.*
 import io.ktor.util.reflect.*
-import models.UserPassword
+import models.User
 import org.mindrot.jbcrypt.BCrypt
 import tables.Users
 import utils.TokenManager.generateToken
@@ -14,7 +14,7 @@ import utils.TokenManager.generateToken
 fun Route.authRoutes() {
 
     post("/register") {
-        val credentials = call.receive<UserPassword>()
+        val credentials = call.receive<User>()
         val hashedPassword = BCrypt.hashpw(credentials.password, BCrypt.gensalt())
 
         if (Users.getUser(credentials.username) != null) {
@@ -26,7 +26,7 @@ fun Route.authRoutes() {
     }
 
     post("/login") {
-        val credentials = call.receive<UserPassword>()
+        val credentials = call.receive<User>()
         val user = Users.getUser(credentials.username)
 
         if (user != null && BCrypt.checkpw(credentials.password, user[Users.passwordHash])) {
